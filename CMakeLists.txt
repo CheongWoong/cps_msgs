@@ -13,7 +13,9 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
     EstimatedOdom.msg
+    EstimatedOdomArray.msg 
 	GroupInfo.msg
+	GroupInfoArray.msg
 )
 
 
