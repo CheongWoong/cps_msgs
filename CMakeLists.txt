@@ -16,6 +16,7 @@ add_message_files(
     EstimatedOdomArray.msg 
 	GroupInfo.msg
 	GroupInfoArray.msg
+	FaultRobot.msg
 )
 
 
